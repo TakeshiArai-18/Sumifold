@@ -6,9 +6,9 @@ Windows 向けの Markdown エディタ。Mermaid / KaTeX / Shiki / Graphviz に
 A Markdown editor for Windows with rich preview (Mermaid / KaTeX / Shiki / Graphviz),
 workspace-wide full-text search, autosave, and crash recovery.
 
-> **公開ベータ / Public Beta — v0.9.0**
-> 本リリースは**未署名**の公開ベータです。安定版（署名済み 1.0.0）は今後提供予定です。
-> This release is an **unsigned** public beta. A signed stable release (1.0.0) is planned.
+> **安定版 / Stable — v1.0.0**
+> 本リリースは**未署名**です（コード署名は今後の課題です）。初回起動時の SmartScreen 警告については下記をご覧ください。
+> This release is **unsigned** (code signing is planned for a future release). See below about the SmartScreen warning on first run.
 
 ---
 
