@@ -85,6 +85,6 @@ You can also check manually via **Help > Check for updates**.
 ## 💬 お問い合わせ / Contact
 
 - 不具合報告・要望: [Issues](https://github.com/TakeshiArai-18/Sumifold/issues)
-- その他のお問い合わせ: `tsukuru.llc.28@gmail.com`
+- その他のお問い合わせ: `info@tsukurullc.com`
 
 **Copyright (c) 2026 Takeshi Arai. All Rights Reserved.**
